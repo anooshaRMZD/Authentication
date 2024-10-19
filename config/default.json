@@ -1,0 +1,7 @@
+{
+    "name" : "kiaraCompany",
+    "db":{
+        "address": "mongodb://127.0.0.1:27017/kiaraProject"
+    },
+    "jwt_key": "hhsjhbdjhbdubdjhbchbychjb445615eded54d5e54e"
+}
